@@ -1,0 +1,27 @@
+1.Exploratory Testing:
+
+Explore the application, understand features identify scenarios document those scenarios based on documented scenarios 
+perform Testing.
+why we do expl testing:
+a.When there is no requirement.
+b.there is requirement bt not understandable.
+c.there is req but no time for read.
+Drawbacks:
+1.missunderstand feature as bug
+eg.company is having one login page,three fiedls are there username,pass and empl id we dont have req so we assume the 
+empl id as bug but actually it is a feature.
+2.missunderstand Bug as Feature
+eg.Login page is having name, email id and mobile no field if we clicked on login otp is recevied only on Phone no but 
+req is it should recived on mail also so we assume that it is not bug it is feature of an appln.
+3.As req is missing so it is time Consuming.
+
+===============================================================================================================
+2.USE Case Testing:
+
+In order to identify and execute the functional requirement of an application from start to finish “use case” is used and the techniques used to do this is known as “Use Case Testing.”
+
+===============================================================================================================
+3.STLC and SDLC DIFF:
+
+
+
